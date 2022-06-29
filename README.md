@@ -28,3 +28,5 @@ specifically called Hertzsprung-Russell Diagram or simply HR-Diagram
 so that we can classify stars by plotting its features based on that graph.
 
 #My goals; create a model that applies k-fold 3 
+
+#messy database 
